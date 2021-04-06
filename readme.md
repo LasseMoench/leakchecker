@@ -1,0 +1,2 @@
+# Facebook Leak Checker
+This script takes the facebook leak as a txt file and your phone contacts in vcard format and prints out a list of all your contacts that are affected by the leak so you can inform them.
